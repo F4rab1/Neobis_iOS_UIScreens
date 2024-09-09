@@ -13,7 +13,7 @@ Tools and Components Used: **UICollectionView**, **UICollectionViewCell**, **Aut
 
 # Forecast UI:
 
-Tools and Components Used: **UICollectionView**, **UIStackView**, **Auto Layout (NSLayoutConstraint)**
+Tools and Components Used: **UITableView**, **UIStackView**, **Auto Layout (NSLayoutConstraint)**
 
 <img width="265" alt="Screenshot 2024-09-09 at 23 25 57" src="https://github.com/user-attachments/assets/de2fa230-46fb-46ed-981d-c6beff178b56">
 <img width="263" alt="Screenshot 2024-09-09 at 23 29 27" src="https://github.com/user-attachments/assets/233579ca-8b65-4b01-b4a2-cdcd91859081">
