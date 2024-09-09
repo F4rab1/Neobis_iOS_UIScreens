@@ -11,6 +11,12 @@ Tools and Components Used: **UICollectionView**, **UICollectionViewCell**, **Aut
 
 <img width="264" alt="Screenshot 2024-09-09 at 23 19 13" src="https://github.com/user-attachments/assets/ffd9ddaf-21d2-4b70-b830-5b42a0fda953">
 
+# Forecast UI:
+
+Tools and Components Used: **UICollectionView**, **UIStackView**, **Auto Layout (NSLayoutConstraint)**
+
+<img width="265" alt="Screenshot 2024-09-09 at 23 25 57" src="https://github.com/user-attachments/assets/de2fa230-46fb-46ed-981d-c6beff178b56">
+
 # Finance UI:
 
 Tools and Components Used: **UITableView**, **UITabBarController**, **UIStackView**, **Auto Layout (NSLayoutConstraint)**
